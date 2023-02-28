@@ -1,0 +1,16 @@
+{
+    "name": "justinvincent/calculette",
+    "autoload": {
+        "psr-4": {
+            "Justinvincent\\Calculette\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "justinvincent",
+            "email": "justin.vincent@student.hepl.be"
+        }
+    ],
+    "require": {
+    }
+}
